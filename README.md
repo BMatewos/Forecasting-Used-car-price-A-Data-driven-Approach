@@ -1,4 +1,3 @@
-# Forecasting Used car price:A Data-driven Approach
 # Forecasting Used Car Prices: A Data-Driven Approach
 
 ## Overview
